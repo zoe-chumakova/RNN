@@ -11,4 +11,4 @@ Steps:
 	2) Building RNN: RNN initializing, adding 4 LSTM layer and Dropout regularization, adding output layer, RNN compiling (Adam optimizer and MSE loss function) and fiitting RNN to the training set.
 	3) Predictions and visualization: predict test stock prices based on built RNN model and visualising real test data vs predicted test data.
 
-Credit: https://www.tfcertification.com
+Credit: tfcertification.com
